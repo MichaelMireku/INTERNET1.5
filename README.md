@@ -1,7 +1,7 @@
-## Internet 1.5: A Next-Generation Decentralized Storage Protocol
+### Internet 1.5: A Next-Generation Decentralized Storage Protocol
 
- Version 1.0 – March 2025
- Author: Michael Kwabena Mireku
+## Version 1.0 – March 2025
+## Author: Michael Kwabena Mireku
 
 Abstract
 
