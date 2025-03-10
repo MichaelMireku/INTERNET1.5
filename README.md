@@ -8,7 +8,7 @@ ___
 
 Abstract
 
-Internet 1.5 is a fully decentralized, censorship-resistant, and permanent storage protocol designed to surpass existing solutions like Arweave, Filecoin, and IQ6900. Unlike traditional blockchain storage, it combines Solana smart contracts, an incentive-based storage network, and a self-healing redundancy mechanism to ensure data is permanently stored without reliance on any single entity.
+Internet 1.5 is a fully decentralized, censorship-resistant, and permanent storage protocol designed to surpass existing solutions like Arweave and Filecoin. Unlike traditional blockchain storage, it combines Solana smart contracts, an incentive-based storage network, and a self-healing redundancy mechanism to ensure data is permanently stored without reliance on any single entity.
 
 The protocol introduces a tri-layer storage architecture, economic incentives through Proof of Redundancy (PoR), and an immutable indexing layer to optimize long-term accessibility.
 
