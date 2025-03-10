@@ -25,8 +25,6 @@ Filecoin: Storage providers can remove files if incentives run out.
 
 IPFS: Files disappear without continuous pinning.
 
-IQ6900: Only stores transaction logs on Solana, vulnerable to state pruning.
-
 
 1.2 What Makes Internet 1.5 Different?
 
