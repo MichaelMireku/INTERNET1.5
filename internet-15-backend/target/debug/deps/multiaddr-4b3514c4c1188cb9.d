@@ -1,9 +1,0 @@
-/mnt/c/Users/HP/Desktop/INTERNET1.5/internet-15-backend/target/debug/deps/libmultiaddr-4b3514c4c1188cb9.rmeta: /home/mike/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/multiaddr-0.18.2/src/lib.rs /home/mike/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/multiaddr-0.18.2/src/errors.rs /home/mike/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/multiaddr-0.18.2/src/onion_addr.rs /home/mike/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/multiaddr-0.18.2/src/protocol.rs /home/mike/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/multiaddr-0.18.2/src/from_url.rs
-
-/mnt/c/Users/HP/Desktop/INTERNET1.5/internet-15-backend/target/debug/deps/multiaddr-4b3514c4c1188cb9.d: /home/mike/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/multiaddr-0.18.2/src/lib.rs /home/mike/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/multiaddr-0.18.2/src/errors.rs /home/mike/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/multiaddr-0.18.2/src/onion_addr.rs /home/mike/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/multiaddr-0.18.2/src/protocol.rs /home/mike/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/multiaddr-0.18.2/src/from_url.rs
-
-/home/mike/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/multiaddr-0.18.2/src/lib.rs:
-/home/mike/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/multiaddr-0.18.2/src/errors.rs:
-/home/mike/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/multiaddr-0.18.2/src/onion_addr.rs:
-/home/mike/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/multiaddr-0.18.2/src/protocol.rs:
-/home/mike/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/multiaddr-0.18.2/src/from_url.rs:
