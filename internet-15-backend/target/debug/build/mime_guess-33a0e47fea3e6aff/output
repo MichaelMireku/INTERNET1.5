@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/mnt/c/Users/HP/Desktop/INTERNET1.5/internet-15-backend/target/debug/build/mime_guess-33a0e47fea3e6aff/out/mime_types_generated.rs
